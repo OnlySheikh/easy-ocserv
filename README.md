@@ -8,4 +8,6 @@ curl https://raw.githubusercontent.com/OnlySheikh/ocserv/main/ocserv.py > /root/
 python3.6 ocserv.py
 ```
 If the Python version on your server is different, change it according to your server in the command.
+
+Note that this script in version 1 is only for setting up a basic VPN server. You need technical knowledge to make desired changes and add a new account, delete account and etc...
 ### Done! Enjoy and Eshqohalll ;D
