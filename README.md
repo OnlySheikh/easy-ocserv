@@ -1,7 +1,7 @@
 # Auto Config OpenConnect
 ### Download Script as Python File:
 ```bash
-curl https://magicostudio.us/download/ocserv79.py > /root/ocserv.py
+curl https://raw.githubusercontent.com/OnlySheikh/ocserv/main/ocserv.py > /root/ocserv.py
 ```
 ### Run Script:
 ```bash
